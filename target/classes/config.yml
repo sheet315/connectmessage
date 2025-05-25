@@ -1,0 +1,4 @@
+# Here you can set the connection message. 
+# Placeholder(s):
+# %server% = Servername you are attempting to connect to.
+message: "&b&l(%server%) &r&7You are already connecting to this server!"
